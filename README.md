@@ -38,6 +38,8 @@ title="1080" alt="Github_fork"></img><br/>
 
 > 유로 인터넷 강의 사이트 이다. 최근 블렌더를 이용한 3D 모델링에 대한 강의를 구매해 배우고 있다.
 
+> <img src=https://storage.googleapis.com/static.fastcampus.co.kr/prod/uploads/202104/165044-380/0-about-web.png>
+
 
 # 4. 교육
 
