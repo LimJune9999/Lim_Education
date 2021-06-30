@@ -80,8 +80,10 @@ title="1080" alt="Github_fork"></img><br/>
 >> 하지만 파이썬과 C++언어를 전문으로 다루고 싶으며 더 나아가 Unity, 언리얼 엔진등을 배우고 싶다는 생각이 강함
 
 >> <img src=https://dimg.donga.com/wps/NEWS/IMAGE/2019/08/27/97144572.1.png>
+
+>> __Unity 엔진 작업__
+>>  
 >> <img src=https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosunbiz/56263YVJQAG5M5EX7UXDTB4D6Y.jpg>
+
+>> __언리얼 엔진으로 구현한 그래픽__
 >> 
->> __위 : Unity 엔진 작업 
->> 
->> 아래 : 언리얼 엔진으로 구현한 그래픽__
