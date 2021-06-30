@@ -26,4 +26,4 @@ title="1080" alt="Github_fork"></img><br/>
 
 # 3. 내가 가장 자주 가는 사이트
 
-<http://www.yes24.com/main/default.aspx?ysmchn=ggl&ysmcpm=google-sponsor&ysmtac=ppc&ysmtrm=%EC%98%88%EC%8A%A424&pid=123487&cosemkid=go14913756274107498&gclid=EAIaIQobChMI4_isjpG-8QIVzb2WCh13Hw9CEAAYASAAEgKwg_D_BwE>
+*외부링크: <http://www.yes24.com/main/default.aspx?ysmchn=ggl&ysmcpm=google-sponsor&ysmtac=ppc&ysmtrm=%EC%98%88%EC%8A%A424&pid=123487&cosemkid=go14913756274107498&gclid=EAIaIQobChMI4_isjpG-8QIVzb2WCh13Hw9CEAAYASAAEgKwg_D_BwE>
