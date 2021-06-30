@@ -82,4 +82,5 @@ title="1080" alt="Github_fork"></img><br/>
 >> <img src=https://dimg.donga.com/wps/NEWS/IMAGE/2019/08/27/97144572.1.png>
 >> <img src=https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosunbiz/56263YVJQAG5M5EX7UXDTB4D6Y.jpg>
 >> 
->> __위 : Unity 엔진 작업 아래 : 언리얼 엔진으로 구현한 그래픽__
+>> __위 : Unity 엔진 작업 
+>> 아래 : 언리얼 엔진으로 구현한 그래픽__
