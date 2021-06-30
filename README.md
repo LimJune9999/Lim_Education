@@ -62,7 +62,7 @@ title="1080" alt="Github_fork"></img><br/>
 >> 후에 프로그래밍을 배운뒤 독립적인 게임 개발을 시도. 플랫폼은 PC 플랫폼
 >> 3D 픽셀 형식의 게임 개발프로젝트를 실시한다.
 
->> <https://i.pinimg.com/originals/a7/f3/68/a7f368440da184e693891c6cca178eb9.png>
+>> <img src=https://i.pinimg.com/originals/a7/f3/68/a7f368440da184e693891c6cca178eb9.png>
 
 # 7. 내가 잘 다루는 
 >> 
