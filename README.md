@@ -61,7 +61,7 @@ title="1080" alt="Github_fork"></img><br/>
 > ## 인디게임 개발 프로젝트 참여
 >> 후에 프로그래밍을 배운뒤 독립적인 게임 개발을 시도. 플랫폼은 PC 플랫폼
 >> 3D 픽셀 형식의 게임 개발프로젝트를 실시한다.
->> <img src=https://www.google.com/url?sa=i&url=https%3A%2F%2Fbbs.ruliweb.com%2Fpc%2Fboard%2F300007%2Fread%2F2154638&psig=AOvVaw1yZ-MCWT2S54NlF4RbV-RW&ust=1625102764409000&source=images&cd=vfe&ved=0CAcQjRxqFwoTCLidvtuZvvECFQAAAAAdAAAAABBA>
+>> <img src=https://lh3.googleusercontent.com/proxy/f5Xqb1haQQHUfdfuqw6vUVjuNQzrf51DFX3bqV0zgvxsKRRHm1_0xjTvS35I9xn6zh2jWRxGd9tR2-4Tprmb_UMTx3JRrM32FQR7otVm0GdNfLTZAkRDJ_8d>
 
 >> <img src=https://i.pinimg.com/originals/a7/f3/68/a7f368440da184e693891c6cca178eb9.png>
 
