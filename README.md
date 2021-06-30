@@ -61,8 +61,11 @@ title="1080" alt="Github_fork"></img><br/>
 > ## 인디게임 개발 프로젝트 참여
 >> 후에 프로그래밍을 배운뒤 독립적인 게임 개발을 시도. 플랫폼은 PC 플랫폼
 >> 3D 픽셀 형식의 게임 개발프로젝트를 실시한다.
+>> <img src=https://img1.daumcdn.net/thumb/R720x0.q80/?scode=mtistory2&fname=http%3A%2F%2Fcfile25.uf.tistory.com%2Fimage%2F99F9C33A5BEB32A2183740>
 
 >> <img src=https://i.pinimg.com/originals/a7/f3/68/a7f368440da184e693891c6cca178eb9.png>
+
+>> 참고 자료 : 3D 픽셀 인디게임 <이스트 워드>
 
 # 7. 내가 잘 다루는 
 >> 
