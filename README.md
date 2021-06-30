@@ -1,3 +1,5 @@
 # Lim_Education
 
-![Alt text](https://mblogthumb-phinf.pstatic.net/MjAxNzAzMTFfMjUx/MDAxNDg5MTYxMjc4NDEw.C2Y9NOdzG5kmlBRE1vBa2SmGjXBUuBj3PRypZB7rCJcg.6ZZmjLHXMBQ__xoQlAMKUlwF_aJiUTXF6ueYeqOnVZsg.JPEG.kmu2333/2234534_%28146%29.jpg?type=w800"안동대학교 인문대학")
+<img src="https://user-images.githubusercontent.com/79644567/123537966-
+4b51ef00-d76d-11eb-9c92-ef95897e1a1e.PNG" width="320px" height="240px"
+title="px(픽셀) 크기 설정" alt="Github_fork"></img><br/>
