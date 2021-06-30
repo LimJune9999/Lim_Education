@@ -33,11 +33,13 @@ title="1080" alt="Github_fork"></img><br/>
 > ## [Yes24](http://www.yes24.com/main/default.aspx?ysmchn=ggl&ysmcpm=google-sponsor&ysmtac=ppc&ysmtrm=%EC%98%88%EC%8A%A424&pid=123487&cosemkid=go14913756274107498&gclid=EAIaIQobChMI4_isjpG-8QIVzb2WCh13Hw9CEAAYASAAEgKwg_D_BwE)
 > 
 > 최근 그림, 디자인, 프로그래밍등 관심 서적을 구매하는데 사용한다.
-
+>
+> <img src=https://image.aladin.co.kr/img/bn/book/2020/03/m_200916_hanbit_p.jpg>
+>
 > ## [Coloso](https://coloso.co.kr/?gclid=EAIaIQobChMIocbqv5K-8QIVwdaWCh0yJQRiEAAYASAAEgKbp_D_BwE)
-
+>
 > 유로 인터넷 강의 사이트 이다. 최근 블렌더를 이용한 3D 모델링에 대한 강의를 구매해 배우고 있다.
-
+>
 > <img src=https://storage.googleapis.com/static.fastcampus.co.kr/prod/uploads/202104/165044-380/0-about-web.png>
 
 
